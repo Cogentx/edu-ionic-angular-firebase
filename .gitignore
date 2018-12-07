@@ -1,6 +1,16 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
+.firebase
+google-services.json
+GoogleService-Info.plist
+
+functions/node_modules
+functions/lib
+IonFire-0-0-1.apk
+my-release-key.keystore
+NOTES.md
+
 *~
 *.sw[mnpcod]
 *.log

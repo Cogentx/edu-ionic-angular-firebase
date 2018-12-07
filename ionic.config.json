@@ -1,6 +1,8 @@
 {
-  "name": "ionFireList",
-  "integrations": {},
+  "name": "lists",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "dd531e9a"
 }
